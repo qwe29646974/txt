@@ -3,7 +3,7 @@
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8#p2p://fccseuro.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw#http://stream.guihet.com/t/ifeng2.php?id=2#http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx#http://stream.guihet.com/t/ifeng2.php?id=1
-无线新闻,p2p://fccseuro.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts
+无线新闻,http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts
 无线财经,p2p://fccseuro.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8#p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188#p2p://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
 明珠台,p2p://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts
