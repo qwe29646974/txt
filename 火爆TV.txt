@@ -9,8 +9,8 @@ J2,https://cdn.hkdtmb.com/hls/82/index.m3u8#p2p://fccseuro.pvbox.live:18912/5dbe
 明珠台,p2p://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts,storage/emulated/0/shimiqubo/明珠台.png
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8#http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8,storage/emulated/0/shimiqubo/星河频道.png
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8,storage/emulated/0/shimiqubo/香港开电视.png
-天映电影,http://210.210.155.35/qwr9ew/s/s33/01.m3u8#http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
-天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8#http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+天映电影,http://210.210.155.35/qwr9ew/s/s33/01.m3u8#http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8,storage/emulated/0/百川影音/台标/天映电影.png
+天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8#http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8,storage/emulated/0/百川影音/台标/天映经典.png
 凤凰香港,http://stream.guihet.com/t/ifeng2.php?id=3#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8,storage/emulated/0/百川影音/台标/凤凰香港.png
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy,storage/emulated/0/百川影音/台标/凤凰电影.png
 星空卫视,rtmp://58.200.131.2:1935/livetv/startvStar#rtmp://58.200.131.2:1935/livetv/startv,storage/emulated/0/shimiqubo/星空卫视.png
