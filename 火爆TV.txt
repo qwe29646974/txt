@@ -17,7 +17,6 @@ TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8#http://50.
 星空卫视,rtmp://58.200.131.2:1935/livetv/startvStar
 台湾電視台 youtube
 台灣©頻道,#genre#
-TVBS新闻台,rtmp://59.124.75.130/sat/tv551
 TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
@@ -35,7 +34,7 @@ TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 台视,p2p://fccseuro.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts#p2p://fccsovh.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts#rtmp://59.124.75.130/sat/tv071
 民视,p2p://fccsovh.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881.ts#p2p://fccsovh.pvbox.live:18912/5b1409690006a24a6938240e2c12a4c4.ts#p2p://fccseuro.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26.ts#p2p://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881.ts#rtmp://59.124.75.130/sat/tv051
 公视,p2p://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts#p2p://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts
-Astro 双星ᴴᴰ,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+双星ᴴᴰ,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 電影©頻道 youtube
 電影©頻道,#genre#
 星卫HD电影,p2p://fccsovh.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b#p2p://fccseuro.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b
