@@ -12,8 +12,8 @@ TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8#http://50.
 天映电影,http://210.210.155.35/qwr9ew/s/s33/01.m3u8#http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8#http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
 凤凰香港,http://stream.guihet.com/t/ifeng2.php?id=3#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-星空卫视,rtmp://58.200.131.2:1935/livetv/startvStar#rtmp://58.200.131.2:1935/livetv/startv
+凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy,storage/emulated/0/百川影音/台标/凤凰电影台.png
+星空卫视,rtmp://58.200.131.2:1935/livetv/startvStar#rtmp://58.200.131.2:1935/livetv/startv,storage/emulated/0/shimiqubo/星空卫视.png
 台湾電視台 youtube
 台灣©頻道,#genre#
 TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8,storage/emulated/0/shimiqubo/TVBS新闻.png
