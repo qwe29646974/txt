@@ -5,8 +5,7 @@ CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 翡翠台,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188,p2p://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
-J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
-J2,p2p://fccseuro.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts
+J2,https://cdn.hkdtmb.com/hls/82/index.m3u8#p2p://fccseuro.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts
 明珠台,p2p://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
