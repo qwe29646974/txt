@@ -1,7 +1,5 @@
 香港©頻道 youtube
-CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
-CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
-CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
+香港©頻道,#genre#
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8#p2p://fccseuro.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw#http://stream.guihet.com/t/ifeng2.php?id=2#http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx#http://stream.guihet.com/t/ifeng2.php?id=1
@@ -38,6 +36,7 @@ TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 民视,p2p://fccsovh.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881.ts#p2p://fccsovh.pvbox.live:18912/5b1409690006a24a6938240e2c12a4c4.ts#p2p://fccseuro.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26.ts#p2p://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881.ts#rtmp://59.124.75.130/sat/tv051
 公视,p2p://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts#p2p://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts
 Astro 双星ᴴᴰ,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+電影©頻道 youtube
 電影©頻道,#genre#
 星卫HD电影,p2p://fccsovh.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b#p2p://fccseuro.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b
 星卫HD电影,p2p://fccsovh.pvbox.live:18912/5bdbf3b90004478a9a7be0f5af7ee982.ts#p2p://fccseuro.pvbox.live:18912/5c724a05000626a61d58aaff0c3f3175.ts#p2p://fccseuro.pvbox.live:18912/5bdbf3b90004478a9a7be0f5af7ee982.ts
@@ -54,6 +53,7 @@ HBOHD,p2p://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts#p2p://f
 HBOHits,p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts#p2p://fccseuro.pvbox.live:18912/5c7249ee000f145b1d5853691cf1378b.ts#p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts
 CCTV6,p2p://fccsovh.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef#http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8#http://107.148.240.185:13164/v/cctv.php?id=2000203303.m3u8#p2p://fccseuro.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef
 好莱坞电影台,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783#p2p://fccseuro.pvbox.live:18912/5c7249e2000125281d5820ff23a165d1#p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba#p2p://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783
+電影©輪播 youtube
 電影©輪播,#genre#
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 周星驰,http://auney.gearhostpreview.com/huya.php?id=11342412
@@ -192,7 +192,8 @@ Running Man,http://auney.gearhostpreview.com/huya.php?id=11352883
 相声小品,http://auney.gearhostpreview.com/huya.php?id=11336593
 王牌对王牌,http://auney.gearhostpreview.com/huya.php?id=11601961
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
-体育频道,#genre#
+體育©頻道 youtube
+體育©頻道,#genre#
 CCTV5,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd#http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
 博斯运动一台,p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts#p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts
