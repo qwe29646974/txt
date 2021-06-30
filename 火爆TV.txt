@@ -9,8 +9,6 @@ J2,https://cdn.hkdtmb.com/hls/82/index.m3u8#https://cdn.hkdtmb.com/hls/82/index.
 明珠台,p2p://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts,storage/emulated/0/shimiqubo/明珠台.png
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8#http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8,storage/emulated/0/shimiqubo/星河频道.png
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8,storage/emulated/0/shimiqubo/香港开电视.png
-天映电影,http://210.210.155.35/qwr9ew/s/s33/01.m3u8#http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
-天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8#http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
 凤凰香港,http://stream.guihet.com/t/ifeng2.php?id=3#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8,storage/emulated/0/百川影音/台标/凤凰香港.png
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy,storage/emulated/0/百川影音/台标/凤凰电影.png
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv#rtmp://58.200.131.2:1935/livetv/startvStar#rtmp://58.200.131.2:1935/livetv/startv,storage/emulated/0/shimiqubo/星空卫视.png
@@ -32,8 +30,6 @@ TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8,storage/emulated/0/shimiqu
 台视,p2p://fccsovh.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts#rtmp://59.124.75.130/sat/tv071,storage/emulated/0/shimiqubo/台视.png
 民视,P2p://ns2.hellotvvod.com:9906/6054657e000af94ed8d7241d24831ac0.ts#p2p://fccsovh.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881.ts#p2p://fccsovh.pvbox.live:18912/5b1409690006a24a6938240e2c12a4c4.ts#p2p://fccseuro.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26.ts#p2p://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881.ts#rtmp://59.124.75.130/sat/tv051,storage/emulated/0/shimiqubo/民视.png
 公视,P2p://ns2.hellotvvod.com:9906/5fc89eac000ec1d1514274296f4d5637.ts#p2p://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts#p2p://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts,storage/emulated/0/shimiqubo/公视.png
-公视台语台,P2p://ns2.hellotvvod.com:9906/5ff3faca000da15e6035eeb279e11019.ts
-公视3台,P2p://ns2.hellotvvod.com:9906/5ff3facb0003e9046035f0191b644b45.ts
 双星ᴴᴰ,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 電影©頻道 youtube
 電影©頻道,#genre#
